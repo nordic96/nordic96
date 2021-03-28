@@ -1,4 +1,4 @@
-## Hi there, I am Gihun 👋
+## Hi there, I'm Gihun 👋
 I am Gihun, a computer science student in NUS, Singapore. I am currently in my final year, and I am highly interested in frontend engineering and AI!
 
 ## Stats Overview
