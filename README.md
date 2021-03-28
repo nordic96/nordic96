@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Gihun, a computer science student in NUS, Singapore. I am currently in my final year, and I am highly interested in frontend engineering and AI!
 [![Gihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nordic96&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nordic96/nordic96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
