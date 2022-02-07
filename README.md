@@ -1,5 +1,5 @@
-## Hi there, I'm Gihun 👋
-I am Gihun, a computer science student in NUS, Singapore. I am currently in my final year, and I am highly interested in frontend engineering and AI!
+## Hi there, I'm Stephen 👋
+I'm Stephen, a computer science graduate from NUS, Singapore. I am currently working as a Frontend Developer, and I am very excited to pursue my career in Frontend Engineering!
 
 ## Stats Overview
 [![Gihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nordic96&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
