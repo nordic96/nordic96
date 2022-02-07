@@ -1,6 +1,10 @@
 ## Hi there, I'm Stephen 👋
 I'm Stephen, a computer science graduate from NUS, Singapore. I am currently working as a Frontend Developer, and I am very excited to pursue my career in Frontend Engineering!
 
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning ReactJS, Typescript, Redux, and many more!
+- 👯 I’m looking to collaborate on Establishing a structured testing environment for React based UI applications
+
 ## Stats Overview
 [![Gihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nordic96&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,9 +15,6 @@ I'm Stephen, a computer science graduate from NUS, Singapore. I am currently wor
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning ReactJS, Typescript, Redux, and many more!
-- 👯 I’m looking to collaborate on Establishing a structured testing environment for React based UI applications
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: rhrlgns96@gmail.com
